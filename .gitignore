@@ -10,3 +10,14 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+*.o
+
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
