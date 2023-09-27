@@ -15,3 +15,6 @@
 
 # Unignore all dirs
 !*/
+
+.vscode/*
+.history/*
