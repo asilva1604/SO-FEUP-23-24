@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Sheet_3"
+			"path" : "Sheet_4"
 		}
 	],
 	"backtrace" : 1,
@@ -51,14 +51,11 @@
 			[
 				0,
 				1,
-				2,
-				3,
-				4,
-				5
+				2
 			]
 		}
 	],
-	"id" : "Sheet_3::@6890427a1f51a3e7e1df",
+	"id" : "Sheet_4::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -74,8 +71,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "Sheet_3",
-	"nameOnDisk" : "Sheet_3",
+	"name" : "Sheet_4",
+	"nameOnDisk" : "Sheet_4",
 	"paths" : 
 	{
 		"build" : ".",
@@ -89,10 +86,7 @@
 			[
 				0,
 				1,
-				2,
-				3,
-				4,
-				5
+				2
 			]
 		}
 	],
@@ -101,37 +95,19 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "main.c",
+			"path" : "src/mycat.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "maintest.c",
+			"path" : "src/stat.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "ex_2.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "ex_2_mine.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "filetest.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "mycat.c",
+			"path" : "src/myls.c",
 			"sourceGroupIndex" : 0
 		}
 	],

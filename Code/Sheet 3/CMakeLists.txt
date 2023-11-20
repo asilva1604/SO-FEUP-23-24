@@ -8,4 +8,7 @@ add_executable(Sheet_3 main.c
         ex_2.c
         ex_2_mine.c
         filetest.c
-        mycat.c)
+        mycat.c
+        mycp.c
+        mywc.c
+        mygrep.c)
